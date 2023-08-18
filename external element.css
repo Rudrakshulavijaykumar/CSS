@@ -1,0 +1,50 @@
+/*p{
+	color: yellow;
+	font-family: cursive;
+	background-color: black;
+}
+div{
+	background-color: yellow;
+	height: 100px;
+	width: 100px;
+}
+input[type]{
+	color: yellow;
+	background-color: yellow;
+	height: 30px;
+	width: 500px;
+}*/
+/*input[type="text"]{
+	color: red;
+}
+input[type="number"]{
+	color: violet;
+}
+input[type="text"]{
+	color: green;
+}
+input[type="number"]{
+	color: sky blue;
+}
+a[href]{
+	background-color:black ;
+}input[type="image"]{
+	border-start-end-radius: ;
+}*/
+a:link{
+	color: green;
+}
+a:visited{
+	color: red;
+}
+a:hover{
+	color: black;
+	
+}
+a:active{
+	color: skyblue;
+}
+body{
+	background-image: url('../../FSD Home practice/Html/onepiece/zoro.jpeg');
+	background-size: cover;
+}
